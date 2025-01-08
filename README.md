@@ -6,10 +6,9 @@ This repository contains the analysis conducted for the Codebasics Resume Challe
   2 years ago with strong foothold in tier-2 cities.
 
   ### Mission
-  Unlike it’s competitiors, but aims to provide 
-  * sustainable livelihood to local drivers
-  * deliver excellent service to passengers
-  * drive growth by achieving ambitious 2024 targets
+  * To provide sustainable livelihood to local drivers
+  * Deliver excellent service to passengers
+  * Drive growth by achieving ambitious 2024 targets
 
 ## Problem Statement
 To accomplish the above Mission, GoodsCabs management team aims to access performance across key metrics including :
