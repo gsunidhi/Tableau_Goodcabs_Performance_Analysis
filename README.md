@@ -51,6 +51,15 @@ To accomplish the above Mission, GoodsCabs management team aims to access perfor
 ![image](https://github.com/user-attachments/assets/776d1bb3-46de-479d-81a1-44cdea082228)
 
 
+## Dashboards
+![image](https://github.com/user-attachments/assets/de5b1c09-4866-480f-ac0b-b6e507da7b30)
+![image](https://github.com/user-attachments/assets/2e0af87c-2e8b-4a26-afc5-a3cceb683fbb)
+![image](https://github.com/user-attachments/assets/89fc9880-87ad-411a-b547-f8097c4a44cc)
+![image](https://github.com/user-attachments/assets/95840575-bef5-4baa-b6c7-9304c48ba177)
+![image](https://github.com/user-attachments/assets/c8ca27ac-e433-4c7f-9f12-94f5de6e2b3f)
+
+
+
 
 
 
